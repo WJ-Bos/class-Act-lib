@@ -37,6 +37,8 @@ public class MemberActions {
 
 
     public static void displayMembers(ArrayList<Member> members) {
+
+        //using String builder to Apply logic to the Output
         StringBuilder output = new StringBuilder();
         for (Member member : members) {
             output.append("___________________________" +
