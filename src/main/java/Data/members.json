@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Admin",
+    "password": "admin",
+    "email": "admin@admin.com",
+    "borrowedBooks": []
+  },
+  {
+    "name": "Jannie Du Plessis",
+    "password": "jannieDp",
+    "email": "jannie@gmail.com",
+    "borrowedBooks": [
+      {
+        "title": "Peter Pan",
+        "author": "Derrick Rose",
+        "isbn": "3534-465454-3435",
+        "isAvailable": false,
+      }
+    ]
+  },
+  {
+    "name": "Charlie Brown",
+    "password": "charlieB",
+    "email": "charlieBr@github.com",
+    "borrowedBooks": [
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "978-0451524935",
+        "isAvailable": false,
+      }
+    ]
+  },
+  {
+    "name": "Alice Smith",
+    "password": "aliceS",
+    "email": "aliceS@email.com",
+    "borrowedBooks": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "978-0743273565",
+        "isAvailable": false,
+      }
+    ]
+  },
+  {
+    "name": "Bob Johnson",
+    "password": "bobJ",
+    "email": "bobJ@google.com",
+    "borrowedBooks": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "978-0061120084",
+        "isAvailable": false,
+      }
+    ]
+  },
+  {
+    "name": "Eve Adams",
+    "password": "eveA",
+    "email": "eveadams@php.com",
+    "borrowedBooks": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "978-0486284736",
+        "isAvailable": false,
+      }
+    ]
+  },
+  {
+    "name": "Jannie Basson",
+    "password": "janniebas",
+    "email": "janbas@gmail.com",
+    "borrowedBooks": [
+      {
+        "title": "Harry Potter",
+        "author": "JK Rowling",
+        "isbn": "978-0747532699",
+        "isAvailable": false,
+      }
+    ]
+  },
+  {
+    "name": "Jasmine Sutherland",
+    "password": "jasmineS",
+    "email": "jasminesutherland@icloud.com",
+    "borrowedBooks": [
+      {
+        "title": "The Hidden Gem",
+        "author": "Emily Rosewood",
+        "isbn": "978-1-2345-6789-0",
+        "isAvailable": false,
+      }
+    ]
+  }
+]
