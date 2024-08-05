@@ -1,8 +1,74 @@
 [
   {
-    "BookId": "#dvbdfhvjb",
-    "BookName": "Test Book",
-    "Author": "Jannie",
+    "title": "Harry Potter",
+    "author": "JK Rowling",
+    "isbn": "978-0747532699",
+    "isAvailable": true
+  },
+  {
+    "title": "The Hidden Gem",
+    "author": "Emily Rosewood",
+    "isbn": "978-1-2345-6789-0",
+    "isAvailable": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978-0061120084",
+    "isAvailable": true
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978-0451524935",
+    "isAvailable": true
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0743273565",
+    "isAvailable": true
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "978-0486284736",
+    "isAvailable": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978-0061120084",
+    "isAvailable": true
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "978-0316769488",
+    "isAvailable": true
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "978-0451526342",
+    "isAvailable": true
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "isbn": "978-0399501487",
+    "isAvailable": true
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978-0345339683",
+    "isAvailable": true
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "978-0060850524",
     "isAvailable": true
   }
 ]
