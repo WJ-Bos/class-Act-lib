@@ -1,47 +1,32 @@
 package Classes;
 
 public class Book {
-    private String BookId;
-    private String BookName;
-    private String Author;
+    private String title;
+    private String isbn;
+    private String author;
     private Boolean isAvailable;
 
-    public Book(String bookId, String bookName, String author, Boolean isAvailable) {
-        BookId = bookId;
-        BookName = bookName;
-        Author = author;
+    public Book(String title, String isbn, String author, Boolean isAvailable) {
+        this.title = title;
+        this.isbn = isbn;
+        this.author = author;
         this.isAvailable = isAvailable;
     }
 
-    public String getBookId() {
-        return BookId;
+    public String getTitle() {
+        return title;
     }
 
-    public void setBookId(String bookId) {
-        BookId = bookId;
-    }
-
-    public String getBookName() {
-        return BookName;
-    }
-
-    public void setBookName(String bookName) {
-        BookName = bookName;
+    public String getIsbn() {
+        return isbn;
     }
 
     public String getAuthor() {
-        return Author;
-    }
-
-    public void setAuthor(String author) {
-        Author = author;
+        return author;
     }
 
     public Boolean getAvailable() {
         return isAvailable;
     }
-
-    public void setAvailable(Boolean available) {
-        isAvailable = available;
-    }
 }
+
